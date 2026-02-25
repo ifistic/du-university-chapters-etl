@@ -54,7 +54,7 @@ du-university-chapters-etl/
 ```
 #  Local Development Setup
 ## Clone Repository
-- git clonehttps://github.com/ifistic/du-university-chapters-etl.git
+- git clone https://github.com/ifistic/du-university-chapters-etl.git
 - cd du-university-chapters-etl
 
 ### create virtual environmet
