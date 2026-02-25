@@ -1,0 +1,7 @@
+requests
+google-cloud-bigquery
+python-dotenv
+pytest
+python2
+pandas
+google-cloud-logging
